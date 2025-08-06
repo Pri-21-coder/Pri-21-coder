@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Pri-21-coder/Pri-21-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Pritha Pal (Pri-21-coder)
 
-Here are some ideas to get you started:
+🌟 Front-End Developer | Exploring Full Stack
+Crafting interactive and beautiful web experiences with a passion for learning and growth.
+<br>
+<br>
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend:HTML, CSS, JavaScript, Bootstrap
+- Also Exploring:Python, Data Structures & Algorithms, Shell Scripting
+- Currently Learning: Full Stack Development
+<br>
+
+ 🚀 Mini Projects
+
+- 🎵 [Spotify Clone]— Built a music streaming app UI inspired by Spotify
+- 🟢 [Simon Says Game] — Interactive memory game using JavaScript
+- 📝 [To-Do List]— Simple and effective task manager
+
+<br>
+
+ 🧑‍💻 About Me
+
+- Driven by curiosity and a love for bringing ideas to life through code.
+- Enjoy building mini projects to deepen my understanding of web development.
+- Always exploring new technologies and best practices!
+
+<br>
+ 🌐 Connect with Me
+
+LinkedIn:www.linkedin.com/in/pritha-pal21
+Email ID: prithapal114@gmail.com
