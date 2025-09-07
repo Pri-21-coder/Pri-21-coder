@@ -1,13 +1,15 @@
 
 👋 Hi, I'm Pritha Pal (Pri-21-coder)
 
-🌟 Front-End Developer | Exploring Full Stack
+🌟 Full Stack web Developer | 
 Crafting interactive and beautiful web experiences with a passion for learning and growth.
 <br>
 <br>
 🛠️ Tech Stack
 
 - Frontend:HTML, CSS, JavaScript, Bootstrap
+- Backend: Node.js, Express.js, EJS
+- Databases-SQL,MongoDB
 - Also Exploring:Python, Data Structures & Algorithms, Shell Scripting
 - Currently Learning: Full Stack Development
 <br>
