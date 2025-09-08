@@ -5,13 +5,34 @@
 Crafting interactive and beautiful web experiences with a passion for learning and growth.
 <br>
 <br>
-🛠️ Tech Stack
+🛠️ Skills & Tech Stack
 
-- Frontend:HTML, CSS, JavaScript, Bootstrap
-- Backend: Node.js, Express.js, EJS
-- Databases-SQL,MongoDB
-- Also Exploring:Python, Data Structures & Algorithms, Shell Scripting
-- Currently Learning: Full Stack Development
+● Backend
+- Node.js, Express.js (server-side program)
+- REST API design & implementation
+- Databases: MongoDB (Mongoose), MySQL
+
+● Frontend
+- HTML, CSS, Bootstrap, JavaScript (responsive UI)
+- EJS (templating engine)
+
+● Tools & Technologies
+- Git & GitHub (version control)
+- Firebase (backend services)
+- Cloudinary (media management)
+- Gemini API (AI integration)
+- Canva (design)
+- Figma (design)
+
+● Programming Languages
+- C
+- Python
+- JavaScript
+
+● Other
+- Data Structures & Algorithms (DSA)
+- Problem-solving
+- Exploring new technologies & best practices
 <br>
 
  🚀 Mini Projects
